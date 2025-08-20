@@ -18,3 +18,6 @@ def chunk_complaint(complaint_text, metadata, text_splitter):
         chunk_metadatas.append(chunk_metadata)
     return chunks, chunk_metadatas
 
+
+
+
